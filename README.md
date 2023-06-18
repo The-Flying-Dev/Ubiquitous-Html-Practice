@@ -10,9 +10,12 @@ A collection of Html Questions with Answers.
 
 ## Sections
 
+###
 * HTML Elements
 * HTML elements with attributes
 * Table Element
 * Form Attributes
 * Form Elements
 * Input Types
+* Semantic HTML
+* Media
